@@ -25,6 +25,8 @@ development:
   username: postgres
   password: password
   database: backend_development
+  host: 127.0.0.1
+  port: 5432
 
   # The specified database role being used to connect to PostgreSQL.
   # To create additional roles in PostgreSQL see `$ createuser --help`.
